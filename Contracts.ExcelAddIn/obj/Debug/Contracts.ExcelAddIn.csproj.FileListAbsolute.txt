@@ -1,0 +1,17 @@
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Contracts.ExcelAddIn.csproj.AssemblyReference.cache
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Pricer.ExcelAddIn.Forms.Login.resources
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\TestExcelAddIn.Properties.Resources.resources
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Pricer.ExcelAddIn.Ribbon.resources
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Contracts.ExcelAddIn.csproj.GenerateResource.cache
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Pricer.ExcelAddIn.dll
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Pricer.ExcelAddIn.pdb
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Pricer.ExcelAddIn.dll.manifest
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Pricer.ExcelAddIn.vsto
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Newtonsoft.Json.dll
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\bin\Debug\Newtonsoft.Json.xml
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Contracts.ExcelAddIn.csproj.CoreCompileInputs.cache
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Contracts.ExcelAddIn.csproj.CopyComplete
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Pricer.ExcelAddIn.dll
+C:\Users\manuel.gpetersen\Desktop\BBVA\Test_Excel_AddIn-master\Contracts.ExcelAddIn\obj\Debug\Pricer.ExcelAddIn.pdb
