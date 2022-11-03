@@ -11,15 +11,15 @@ EXPOSE 443
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
 COPY . .
-RUN dotnet restore "./CPricer.API.csproj"
+RUN dotnet restore "./CPrice.API.csproj"
 COPY . .
 WORKDIR "/src/."
-RUN dotnet build "CPricer.API.csproj" -c Release -o /app/build
+RUN dotnet build "CPrice.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
-RUN dotnet publish "CPricer.API.csproj" -c Release -o /app/publish
+RUN dotnet publish "CPrice.API.csproj" -c Release -o /app/publish
 
 FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
-ENTRYPOINT ["dotnet", "CPricer.API.dll"]
+ENTRYPOINT ["dotnet", "CPrice.API.dll"]
