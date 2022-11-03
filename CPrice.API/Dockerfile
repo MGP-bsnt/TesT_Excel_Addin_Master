@@ -10,10 +10,10 @@ EXPOSE 443
 
 FROM mcr.microsoft.com/dotnet/sdk:6.0 AS build
 WORKDIR /src
-COPY ["Pricer.API/Pricer.API.csproj", "Pricer.API/"]
-RUN dotnet restore "Pricer.API/Pricer.API.csproj"
 COPY . .
-WORKDIR "/src/Pricer.API"
+RUN dotnet restore "./Pricer.API.csproj"
+COPY . .
+WORKDIR "/src/."
 RUN dotnet build "Pricer.API.csproj" -c Release -o /app/build
 
 FROM build AS publish
